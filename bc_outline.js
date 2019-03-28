@@ -5,8 +5,8 @@
    Tutorial 12
    Tutorial Case
 
-   Author: 
-   Date:   
+   Author: Dylan Kelley
+   Date:   3.28.19
 
    Filename: bc_outline.js
 
@@ -26,4 +26,3 @@
 
 
 */
-
